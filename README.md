@@ -55,4 +55,4 @@ Este projeto oferece uma visão aprofundada dos fatores que contribuem para o au
 
 **Autor:** João Paula  
 
-[Link para o Colab](https://colab.research.google.com/drive/1)
+[Link para o Colab]([https://colab.research.google.com/drive/1](https://colab.research.google.com/drive/1b6l_yV0UmYljFL5Aac52YqCY5pJjJ4kU?usp=sharing)https://colab.research.google.com/drive/1b6l_yV0UmYljFL5Aac52YqCY5pJjJ4kU?usp=sharing)
